@@ -92,6 +92,8 @@ Aquí tienes una implementación completa de un formulario con React Hook Form, 
 
 Trabajar con formularios en React, especialmente con herramientas como React Hook Form, permite crear interfaces de usuario eficientes, fáciles de mantener y con una excelente gestión de validaciones. React Hook Form optimiza el rendimiento y simplifica la lógica de los formularios, haciéndolo una elección ideal para aplicaciones complejas.
 
+Made by Prof. Martin with a lot of 💖 and ☕
+
 ```
 
 ```
